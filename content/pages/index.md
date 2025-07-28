@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Clean & Shine Squad
       color: text-dark
       styles:
         self:
